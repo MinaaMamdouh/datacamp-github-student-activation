@@ -4,6 +4,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/MinaaMamdouh/datacamp-github-student-activation)
 ![GitHub issues](https://img.shields.io/github/issues/MinaaMamdouh/datacamp-github-student-activation)
 
+![GitHub issues](https://cdn.corenexis.com/i/mm/ap29/4LD4bm.png?token=be9cf7ca5389b5b788a00587c744d83a)
+
 
 ---
 
