@@ -1,8 +1,9 @@
 # 💻 طريقة الحصول على GitHub Student Pack وتفعيل اشتراك DataCamp للطلاب
 
-![GitHub stars](https://img.shields.io/github/stars/MinaaMamdouh/Student-Pack-DataCamp-Guide?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/MinaaMamdouh/Student-Pack-DataCamp-Guide)
-![GitHub issues](https://img.shields.io/github/issues/MinaaMamdouh/Student-Pack-DataCamp-Guide)
+![GitHub stars](https://img.shields.io/github/stars/MinaaMamdouh/datacamp-github-student-activation)
+![Last Commit](https://img.shields.io/github/last-commit/MinaaMamdouh/datacamp-github-student-activation)
+![GitHub issues](https://img.shields.io/github/issues/MinaaMamdouh/datacamp-github-student-activation)
+
 
 ---
 
@@ -89,7 +90,6 @@ DataCamp هو موقع تعليم ذاتي تفاعلي، هتتعلم عليه 
 لو استفدت من الدليل ده:
 - اعمل ⭐ للريبو
 - تابعني هنا على GitHub 👇  
-[github.com/minamamdouh](https://github.com/minamamdouh)
+[github.com/minamamdouh](https://github.com/MinaaMamdouh)
 
-ولو عندك سؤال أو محتاج مساعدة، ابعتلي وأنا هساعدك بكل سرور ❤️  
-ودعوة حلوة من قلبك متتنسيش 💌
+ولو عندك سؤال أو محتاج مساعدة، ابعتلي وأنا هساعدك ❤️  
